@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/bymaxanjos/bymaxanjos.r-universe.dev
 	branch = HEAD
+[submodule "climasus4r"]
+	path = climasus4r
+	url = https://github.com/ByMaxAnjos/climasus4r
