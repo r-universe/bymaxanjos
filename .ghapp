@@ -1,0 +1,10 @@
+{
+  "id": 145573464,
+  "created_at": "2026-07-10T02:42:39.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["bymaxanjos.r-universe.dev"]
+}
