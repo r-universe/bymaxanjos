@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/bymaxanjos/bymaxanjos.r-universe.dev
 	branch = HEAD
+[submodule "LCZ4r"]
+	path = LCZ4r
+	url = https://github.com/ByMaxAnjos/LCZ4r
 [submodule "climasus4r"]
 	path = climasus4r
 	url = https://github.com/ByMaxAnjos/climasus4r
